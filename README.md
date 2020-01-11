@@ -1,6 +1,6 @@
 # Carwings
 
-[![GoDoc](https://godoc.org/github.com/lazzurs/carwings?status.svg)](http://godoc.org/github.com/joeshaw/carwings)
+[![GoDoc](https://godoc.org/github.com/lazzurs/carwings?status.svg)](http://godoc.org/github.com/lazzurs/carwings)
 
 `carwings` is a Go package and command-line tool providing access to
 the Nissan Leaf Carwings API.
