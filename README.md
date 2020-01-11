@@ -5,7 +5,7 @@
 `carwings` is a Go package and command-line tool providing access to
 the Nissan Leaf Carwings API.
 
-Forced from [github.com/joeshaw/carwings/cmd/carwings](github.com/joeshaw/carwings/cmd/carwings)
+Forked from [github.com/joeshaw/carwings/cmd/carwings](github.com/joeshaw/carwings/cmd/carwings)
 
 Through the Carwings API you can ask your vehicle for the latest data,
 see current battery and charging statuses, see the current climate
